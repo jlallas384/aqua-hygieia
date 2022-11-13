@@ -20,7 +20,7 @@ const char* password = "Baldonheng1617";
 // const char* password1 = "1234567890";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
-
+// lfg
 #define CAMERA_MODEL_AI_THINKER
 
 #define PWDN_GPIO_NUM     32
